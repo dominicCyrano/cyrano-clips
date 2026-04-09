@@ -1,0 +1,5 @@
+{
+  "name": "cyrano-clips",
+  "private": true,
+  "workspaces": ["shared", "backend", "frontend"]
+}

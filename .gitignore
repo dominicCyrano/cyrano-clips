@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+*.log
+*.tsbuildinfo
+last-week/
+*.err.txt
+*.out.txt
+smoke-*.mp4
+smoke-*.wav
+CyranoClips.zip
+.claude/
